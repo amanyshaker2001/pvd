@@ -1,3 +1,7 @@
+projekt z predmetu pokrocile vyuzitie databaz
+webova stranka pre cukraren, kde sa robili rozne analyzy na rozne ekonomicke vypocty 
+
+
 Thanks for downloading this template!
 
 Template Name: Reveal
